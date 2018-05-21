@@ -1,0 +1,24 @@
+@charset "UTF-8"; 
+
+header{
+          margin:0;
+           width: 984px;
+    }
+hr {
+    display: block;
+    height: auto;
+    border: 0;
+    border-color: #ccc;
+    margin: 1cm 0;
+    padding: 0;
+    }
+    
+     
+picture
+{
+    float: left;
+}
+h1{
+    float: right;
+}
+
